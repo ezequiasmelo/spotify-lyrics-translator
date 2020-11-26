@@ -4,10 +4,10 @@ Lista a letra original e abaixo a tradução da música que está sendo tocada n
 ####Exemplos:
 
 * No terminal do PyCharm
-<img src="README_pycharm.png" alt="Image Console PyCharm" />
+![alt text](./README_pycharm.PNG "Image Console PyCharm")
 
 * No terminal do Visual Studio Code
-![visualstudiocode](./README_visualstudiocode.png "Image Console Visual Studio Code")
+![visualstudiocode](./README_visualstudiocode.PNG "Image Console Visual Studio Code")
 
 # Instalar
 **Nota:** Testado com Python 3.7 no Windows 7 
@@ -29,7 +29,7 @@ pip install colorama
 * Cadastre-se e crie um novo aplicativo em https://developer.spotify.com
 * pegue as informações e preencha as linhas abaixo (encontrado no inícío de main.py) com as informações da sua conta recém criada
 
-![config](./README_config.png "Image Config")
+![config](./README_config.PNG "Image Config")
 
 # Uso
 Execute o seguinte comando no terminal 
