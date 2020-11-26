@@ -4,7 +4,7 @@ Lista a letra original e abaixo a tradução da música que está sendo tocada n
 ####Exemplos:
 
 * No terminal do PyCharm
-![alt text](./README_pycharm.png "Image Console PyCharm")
+![alt text](README_pycharm.png "Image Console PyCharm")
 
 * No terminal do Visual Studio Code
 ![alt text](./README_visualstudiocode.png "Image Console Visual Studio Code")
